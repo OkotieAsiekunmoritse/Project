@@ -1,0 +1,10 @@
+replicaCount: 5
+
+application:
+  name: mo-project
+  port: 80
+  targetPort: 80
+
+image:
+  repository: moritse/dockerhub
+  tag: mydemo
