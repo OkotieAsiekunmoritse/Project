@@ -8,6 +8,12 @@
 <img width="925" alt="IGW" src="https://user-images.githubusercontent.com/108562214/227881350-8649c219-1096-4a3d-96b1-e6c57b83f45b.PNG">
 <<img width="916" alt="Subnets" src="https://user-images.githubusercontent.com/108562214/227881394-2bddf35c-dde4-484b-8608-71258ccad349.PNG">
 img width="925" alt="Route Table" src="https://user-images.githubusercontent.com/108562214/227881376-8b005fec-ea39-45c9-90c0-674bace37185.PNG">
+
+
+![cicd process](https://user-images.githubusercontent.com/108562214/227888852-dd68e412-5241-4959-9431-c1fc84a767aa.jpg)
+![cicd process (2)](https://user-images.githubusercontent.com/108562214/227888895-a52aea2d-1fda-4a58-8036-368bc3bb6ee0.jpg)
+
+
 <img width="957" alt="my webpg" src="https://user-images.githubusercontent.com/108562214/227881528-9d9642d7-ae4c-480d-946f-b87dc2a12d67.PNG">
 <img width="938" alt="mywebpg2" src="https://user-images.githubusercontent.com/108562214/227881559-b171c050-e22b-4896-ae93-ee0da8175313.PNG">
 <img width="933" alt="mywebpg3" src="https://user-images.githubusercontent.com/108562214/227881585-3871c9f8-d69f-44d8-ae8c-3f0a4128621e.PNG">
